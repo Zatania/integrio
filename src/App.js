@@ -74,7 +74,7 @@ function App() {
                             <img
                               className="shape"
                               alt="Shape"
-                              src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/shape.svg"
+                              src="shape.svg"
                             />
                           </div>
                           <div className="text-wrapper-6">Client login</div>
@@ -123,7 +123,7 @@ function App() {
                   <img
                     className="combined-shape"
                     alt="Combined shape"
-                    src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/combined-shape.svg"
+                    src="combined-shape.svg"
                   />
                 </div>
               </div>
@@ -142,36 +142,36 @@ function App() {
                           <img
                             className="path"
                             alt="Path"
-                            src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-5.svg"
+                            src="path-5.svg"
                           />
                         </div>
                         <img
                           className="img"
                           alt="Path"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-3.svg"
+                          src="path-3.svg"
                         />
                         <img
                           className="path-2"
                           alt="Path"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-4.svg"
+                          src="path-4.svg"
                         />
                       </div>
                     </div>
                     <img
                       className="cinepolis"
                       alt="Cinepolis"
-                      src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/cinepolis.png"
+                      src="cinepolis.png"
                     />
                     <div className="div-3">
                       <img
                         className="path-3"
                         alt="Path"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-6.svg"
+                        src="path-6.svg"
                       />
                       <img
                         className="shape-2"
                         alt="Shape"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/shape-2.svg"
+                        src="shape-2.svg"
                       />
                     </div>
                   </div>
@@ -181,27 +181,27 @@ function App() {
                         <img
                           className="path-4"
                           alt="Path"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-7.svg"
+                          src="path-7.svg"
                         />
                         <img
                           className="path-5"
                           alt="Path"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-8.svg"
+                          src="path-8.svg"
                         />
                          <img
                           className="path-6"
                           alt="Path"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/path-9.svg"
+                          src="path-9.svg"
                         />
                         <img
                           className="shape-3"
                           alt="Shape"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/shape-3.svg"
+                          src="shape-3.svg"
                         />
                         <img
                           className="shape-4"
                           alt="Shape"
-                          src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/shape-4.svg"
+                          src="shape-4.svg"
                         />
                       </div>
                     </div>
@@ -209,14 +209,14 @@ function App() {
                       <img
                         className="image"
                         alt="Brand"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/image-2.png"
+                        src="image-2.png"
                       />
                       </div>
                     <div className="div-3">
                       <img
                         className="image-2"
                         alt="Brand"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/image-3.png"
+                        src="image-3.png"
                       />
                     </div>
                   </div>
@@ -225,21 +225,21 @@ function App() {
                       <img
                         className="image-3"
                         alt="Brand"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/image-4.png"
+                        src="image-4.png"
                       />
                     </div>
                     <div className="mobiry">
                       <img
                         className="image-4"
                         alt="Brand"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/image-5.png"
+                        src="image-5.png"
                       />
                     </div>
                     <div className="camtran">
                       <img
                         className="image-5"
                         alt="Brand"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/image-6.png"
+                        src="image-6.png"
                       />
                     </div>
                   </div>
@@ -268,7 +268,7 @@ function App() {
               <img
                 className="photo"
                 alt="Article"
-                src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/photo-3@2x.png"
+                src="photo-3@2x.png"
               />
               <p className="we-are-known-for-pro">
                 <span className="span">
@@ -312,21 +312,21 @@ function App() {
                       <img
                         className="i"
                         alt="I"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/i.svg"
+                        src="i.svg"
                       />
                     </div>
                     <div className="f-wrapper">
                       <img
                         className="f-2"
                         alt="F"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/f.svg"
+                        src="f.svg"
                       />
                        </div>
                     <div className="img-wrapper">
                       <img
                         className="t-3"
                         alt="T"
-                        src="https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/t.svg"
+                        src="t.svg"
                       />
                     </div>
                   </div>

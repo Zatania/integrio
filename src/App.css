@@ -84,7 +84,7 @@
 }
 
 .prototype .ic {
-  background-image: url(https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/icons-arrow-r-w-16.svg);
+  background-image: url(/public/icons-arrow-r-w-16.svg);
   background-size: 100% 100%;
   height: 16px;
   left: 105px;
@@ -477,7 +477,7 @@
 }
 
 .prototype .overlap-group {
-  background-image: url(https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/shape-1.svg);
+  background-image: url(/public/shape-1.svg);
   background-size: 100% 100%;
   height: 23px;
   left: 0;
@@ -721,7 +721,7 @@
 }
 
 .prototype .ic-2 {
-  background-image: url(https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/icons-arrow-r-w-16-1.svg);
+  background-image: url(/public/icons-arrow-r-w-16-1.svg);
   background-size: 100% 100%;
   height: 16px;
   left: 208px;
