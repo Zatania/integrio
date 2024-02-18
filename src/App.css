@@ -1,38 +1,1123 @@
-.App {
-  text-align: center;
+.prototype {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.prototype .div {
+  background-color: #ffffff;
+  height: 100%;
+  position: relative;
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.prototype .n {
+  background-color: #ffffff;
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.prototype .nav {
+  height: 88px;
+  left: 80px;
+  position: absolute;
+  top: 40px;
+  width: 100%;
+}
+
+.prototype .element {
+  height: 88px;
+}
+
+.prototype .element-2 {
+  height: 56px;
+  position: relative;
+  top: 16px;
+  width: 100%;
+}
+
+.prototype .buttons {
+  height: 56px;
+  left: 1119px;
+  position: absolute;
+  top: 0;
+  width: 161px;
+}
+
+.prototype .b {
+  background-color: #ff5621;
+  height: 56px;
+}
+
+.prototype .element-3 {
+  height: 24px;
+  left: 16px;
+  position: relative;
+  top: 16px;
+  width: 129px;
+}
+
+.prototype .div-wrapper {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.prototype .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.prototype .ic {
+  background-image: url(https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/icons-arrow-r-w-16.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 105px;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.prototype .nav-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 356px;
+  position: absolute;
+  top: 0;
+}
+
+.prototype .element-wrapper {
+  height: 56px;
+  position: relative;
+  width: 124px;
+}
+
+.prototype .element-4 {
+  height: 56px;
+  left: 16px;
+  position: relative;
+  width: 92px;
+}
+
+.prototype .element-5 {
+  height: 24px;
+  position: relative;
+  top: 16px;
+}
+
+.prototype .ic-down {
+  height: 16px !important;
+  left: 76px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 16px !important;
+}
+
+.prototype .text-wrapper-2 {
+  color: #141414;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.prototype .element-6 {
+  height: 56px;
+  position: relative;
+  width: 131px;
+}
+
+.prototype .element-7 {
+  height: 56px;
+  left: 16px;
+  position: relative;
+  width: 99px;
+}
+
+.prototype .element-8 {
+  height: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 16px;
+}
+
+.prototype .text-wrapper-3 {
+  color: #141414;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.prototype .element-9 {
+  height: 56px;
+  position: relative;
+  width: 130px;
+}
+
+.prototype .element-10 {
+  height: 56px;
+  left: 16px;
+  position: relative;
+  width: 98px;
+}
+
+.prototype .ic-down-16-1 {
+  height: 16px !important;
+  left: 85px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 13px !important;
+}
+
+.prototype .cooperation {
+  color: #141414;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.prototype .element-11 {
+  height: 56px;
+  position: relative;
+  width: 154px;
+}
+
+.prototype .element-12 {
+  height: 56px;
+  left: 16px;
+  position: relative;
+  width: 122px;
+}
+
+.prototype .ic-down-sm-16 {
+  height: 16px !important;
+  left: 106px !important;
+  position: absolute !important;
+  top: 4px !important;
+  width: 16px !important;
+}
+
+.prototype .text-wrapper-4 {
+  color: #141414;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.prototype .element-13 {
+  height: 56px;
+  position: relative;
+  width: 68px;
+}
+
+.prototype .element-14 {
+  height: 56px;
+  left: 16px;
+  position: relative;
+  width: 36px;
+}
+
+.prototype .text-wrapper-5 {
+  color: #141414;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.prototype .element-15 {
+  height: 56px;
+  position: relative;
+  width: 144px;
+}
+
+.prototype .element-16 {
+  height: 56px;
+  left: 16px;
+  position: relative;
+  width: 112px;
+}
+
+.prototype .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  position: relative;
+}
+
+.prototype .shape-wrapper {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.prototype .shape {
+  height: 8px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.prototype .text-wrapper-6 {
+  color: #141414;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.prototype .logo {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 196px;
+}
+
+.prototype .tb {
+  height: 32px;
+  left: 80px;
+  position: absolute;
+  top: 8px;
+  width: 100%;
+}
+
+.prototype .element-17 {
+  height: 32px;
+  width: 265px;
+}
+
+.prototype .element-18 {
+  height: 32px;
+  position: relative;
+}
+
+.prototype .p {
+  color: #141414;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.prototype .location {
+  height: 32px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.prototype .triangle-wrapper {
+  height: 32px;
+  left: 71px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.prototype .triangle {
+  height: 6px;
+  left: 12px;
+  position: absolute;
+  top: 14px;
+  width: 8px;
+}
+
+.prototype .text-wrapper-7 {
+  color: #141414;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  opacity: 0.4;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: transparent url('https://your-custom-arrow-icon-url') no-repeat right center;
+  background-size: 10px;
+  padding-right: 20px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.prototype .img-wrapper {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.prototype .combined-shape {
+  height: 16px;
+  left: 11px;
+  position: absolute;
+  top: 8px;
+  width: 11px;
+}
+
+.prototype .content-wrapper {
+  background-color: #fafafa;
+  height: 456px;
+  left: 0;
+  position: absolute;
+  top: 128px;
+  width: 100%;
+}
+
+.prototype .content {
+  height: 216px;
+  left: 80px;
+  position: relative;
+  top: 120px;
+  width: 1281px;
+}
+
+.prototype .headline {
+  height: 216px;
+}
+
+.prototype .content-2 {
+  height: 216px;
+  position: relative;
+  width: 1281px;
+}
+
+.prototype .logos {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 25px;
+  left: 712px;
+  position: absolute;
+  top: 8px;
+}
+
+.prototype .element-19 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 71px;
+  position: relative;
+}
+
+.prototype .div-2 {
+  height: 24px;
+  position: relative;
+  width: 137px;
+}
+
+.prototype .jonas {
+  height: 24px;
+  left: 29px;
+  position: relative;
+  width: 78px;
+}
+
+.prototype .overlap-group {
+  background-image: url(https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/shape-1.svg);
+  background-size: 100% 100%;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.prototype .path {
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.prototype .img {
+  height: 2px;
+  left: 76px;
+  position: absolute;
+  top: 22px;
+  width: 2px;
+}
+
+.prototype .path-2 {
+  height: 2px;
+  left: 75px;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.prototype .cinepolis {
+  height: 24px;
+  object-fit: cover;
+  position: relative;
+  width: 110px;
+}
+
+.prototype .div-3 {
+  height: 24px;
+  position: relative;
+  width: 179px;
+}
+
+.prototype .path-3 {
+  height: 24px;
+  left: 156px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.prototype .shape-2 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 145px;
+}
+
+.prototype .nokia {
+  height: 15px;
+  left: 26px;
+  position: relative;
+  top: 4px;
+  width: 86px;
+}
+
+.prototype .path-4 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.prototype .path-5 {
+  height: 14px;
+  left: 60px;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.prototype .path-6 {
+  height: 14px;
+  left: 41px;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.prototype .shape-3 {
+  height: 15px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.prototype .shape-4 {
+  height: 14px;
+  left: 65px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.prototype .member-sol {
+  height: 24px;
+  position: relative;
+  width: 110px;
+}
+
+.prototype .image {
+  height: 24px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.prototype .image-2 {
+  height: 24px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.prototype .image-3 {
+  height: 18px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 82px;
+}
+
+.prototype .mobiry {
+  height: 38px;
+  position: relative;
+  width: 110px;
+}
+
+.prototype .image-4 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 110px;
+}
+
+.prototype .camtran {
+  height: 35px;
+  position: relative;
+  width: 179px;
+}
+
+.prototype .image-5 {
+  height: 15px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 115px;
+}
+
+.prototype .line {
+  background-color: #000000;
+  height: 56px;
+  left: 440px;
+  opacity: 0.2;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.prototype .element-20 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.prototype .text-wrapper-8 {
+  color: #141414;
+  font-family: var(--h2-font-family);
+  font-size: var(--h2-font-size);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 400px;
+}
+
+.prototype .b-2 {
+  border: 2px solid;
+  border-color: var(--neutralsblack);
+  height: 64px;
+  position: relative;
+  width: 264px;
+}
+
+.prototype .element-21 {
+  height: 32px;
+  left: 14px;
+  position: relative;
+  top: 14px;
+  width: 232px;
+}
+
+.prototype .get-a-quote-wrapper {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.prototype .get-a-quote {
+  color: var(--neutralsblack);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.prototype .ic-2 {
+  background-image: url(https://cdn.animaapp.com/projects/65d0c13692f2be09435117a6/releases/65d0c16fa068d40e6da5f6b0/img/icons-arrow-r-w-16-1.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 208px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.prototype .element-22 {
+  background-color: var(--neutralsdark-purple);
+  height: 952px;
+  left: 0;
+  position: absolute;
+  top: 584px;
+  width: 100%;
+}
+
+.prototype .indicator {
+  background-color: #52285f;
+  height: 40px;
+  left: 740px;
+  position: absolute;
+  top: 0;
+  width: 620px;
+}
+
+.prototype .data {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 80px;
+  height: 712px;
+  left: 80px;
+  position: absolute;
+  top: 120px;
+}
+
+.prototype .we-are-proud-to-have {
+  color: var(--neutralswhite);
+  font-family: var(--h2-font-family);
+  font-size: var(--h2-font-size);
+  font-style: var(--h2-font-style);
+  font-weight: var(--h2-font-weight);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 1247px;
+}
+
+.prototype .txt {
+  height: 512px;
+  margin-right: -2px;
+  position: relative;
+  width: 1282px;
+}
+
+.prototype .photo {
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.prototype .we-are-known-for-pro {
+  color: transparent;
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 440px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  width: 510px;
+}
+
+.prototype .span {
+  color: #ffffff;
+}
+
+.prototype .text-wrapper-9 {
+  color: #ff5621;
+  text-decoration: underline;
+}
+
+.prototype .details {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 990px;
+  position: absolute;
+  top: 0;
+}
+
+.prototype .element-23 {
+  color: var(--neutralswhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 100px;
+  font-weight: 700;
+  letter-spacing: -4px;
+  line-height: 96px;
+  position: relative;
+  width: 290px;
+}
+
+.prototype .txt-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.prototype .rectangle {
+  background-color: #ffffff00;
+  box-shadow: inset 0px -1px 0px #fffffff5;
+  height: 16px;
+  position: relative;
+  width: 290px;
+}
+
+.prototype .of-the-candidates-we {
+  color: var(--neutralswhite);
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: -0.4px;
+  line-height: 32px;
+  position: relative;
+  width: 290px;
+}
+
+.prototype .end {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 1536px;
+}
+
+.prototype .f {
+  background-color: #ffffff;
+  height: 480px;
+  position: relative;
+  width: 100%;
+}
+
+.prototype .element-33 {
+  height: 480px;
+  left: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.prototype .c {
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 384px;
+  width: 100%;
+}
+
+.prototype .element-34 {
+  background-color: #ffffff;
+  height: 32px;
+  position: relative;
+  top: 32px;
+}
+
+.prototype .s {
+  height: 32px;
+  left: 1152px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.prototype .i-wrapper {
+  height: 32px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.prototype .i {
+  height: 15px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.prototype .f-wrapper {
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.prototype .f-2 {
+  height: 16px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.prototype .t-3 {
+  height: 13px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.prototype .element-integrio-syst {
+  color: #9790a3;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 720px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 6px;
+  width: 320px;
+}
+
+.prototype .element-35 {
+  color: var(--neutralsblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 223px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.prototype .text-wrapper-19 {
+  color: #141414;
+  font-weight: 800;
+}
+
+.prototype .text-wrapper-20 {
+  color: #141414;
+}
+
+.prototype .info-integrio-net {
+  color: var(--neutralsblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 377px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.prototype .info-integrio-net-2 {
+  color: var(--neutralsblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.prototype .frame-wrapper {
+  height: 288px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 100%;
+}
+
+.prototype .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 80px;
+  position: relative;
+}
+
+.prototype .element-36 {
+  height: 288px;
+  position: relative;
+  width: 280px;
+}
+
+.prototype .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  top: 32px;
+}
+
+.prototype .text-wrapper-21 {
+  color: var(--neutralsblack);
+  font-family: var(--1-font-family);
+  font-size: var(--1-font-size);
+  font-style: var(--1-font-style);
+  font-weight: var(--1-font-weight);
+  letter-spacing: var(--1-letter-spacing);
+  line-height: var(--1-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 280px;
+}
+
+.prototype .lines {
+  background-color: #000000;
+  height: 1px;
+  position: relative;
+  width: 280px;
+}
+
+.prototype .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.prototype .text-wrapper-22 {
+  color: var(--neutralsblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  width: 280px;
+}
+
+.prototype .text-wrapper-23 {
+  color: var(--neutralsblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  width: 280px;
+}
+
+.prototype .nav-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 280px;
+}
+
+.prototype .element-37 {
+  height: 288px;
+  position: relative;
+  width: 560px;
+}
+
+.prototype .lines-2 {
+  background-color: #000000;
+  height: 1px;
+  position: relative;
+  width: 560px;
+}
+
+.prototype .element-38 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.prototype .nav-4 {
+  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  position: relative;
+  width: 280px;
 }
