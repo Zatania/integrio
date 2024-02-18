@@ -247,14 +247,14 @@ function App() {
                 <div className="line" />
                 <div className="element-20">
                   <div className="text-wrapper-8">Our customers</div>
-                  <div className="b-2">
+                  <a href="/" className="b-2">
                     <div className="element-21">
                       <div className="get-a-quote-wrapper">
                         <div className="get-a-quote">View Case Studies</div>
                       </div>
                       <div className="ic-2" />
                     </div>
-                  </div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -352,10 +352,10 @@ function App() {
                       <div className="text-wrapper-21">Locations</div>
                       <div className="lines" />
                       <div className="frame-3">
-                        <div className="text-wrapper-22">Krakow, Poland</div>
-                        <div className="text-wrapper-23">Kharkiv, Ukraine</div>
-                        <div className="text-wrapper-23">San Francisco, USA</div>
-                        <div className="text-wrapper-23">Vancouver, Canada</div>
+                        <a href="/" className="text-wrapper-22">Krakow, Poland</a>
+                        <a href="/" className="text-wrapper-22">Kharkiv, Ukraine</a>
+                        <a href="/" className="text-wrapper-22">San Francisco, USA</a>
+                        <a href="/" className="text-wrapper-22">Vancouver, Canada</a>
                       </div>
                     </div>
                   </div>
@@ -364,10 +364,10 @@ function App() {
                       <div className="text-wrapper-21">Company</div>
                       <div className="lines" />
                       <div className="nav-3">
-                        <div className="text-wrapper-23">News</div>
-                        <div className="text-wrapper-23">Privacy Policy /Cookies Policy</div>
-                        <div className="text-wrapper-23">About</div>
-                        <p className="text-wrapper-23">Download free uptime scout app</p>
+                        <a href="/" className="text-wrapper-23">News</a>
+                        <a href="/" className="text-wrapper-23">Privacy Policy /Cookies Policy</a>
+                        <a href="/" className="text-wrapper-23">About</a>
+                        <a href="/" className="text-wrapper-23">Download free uptime scout app</a>
                       </div>
                     </div>
                   </div>
@@ -377,18 +377,18 @@ function App() {
                       <div className="lines-2" />
                       <div className="element-38">
                         <div className="nav-4">
-                          <div className="text-wrapper-23">Hire React Developers</div>
-                          <div className="text-wrapper-23">Hire Angular Developers</div>
-                          <div className="text-wrapper-23">Hire Javascript Developers</div>
-                          <div className="text-wrapper-23">Hire Java Developers</div>
-                          <div className="text-wrapper-23">Hire PHP Developers</div>
+                          <a href="/" className="text-wrapper-23">Hire React Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire Angular Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire Javascript Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire Java Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire PHP Developers</a>
                         </div>
                         <div className="nav-4">
-                          <div className="text-wrapper-23">Hire .NET Developers</div>
-                          <div className="text-wrapper-23">Hire Node.js Developers</div>
-                          <div className="text-wrapper-23">Hire Python Developers</div>
-                          <div className="text-wrapper-23">Hire Ruby Developers</div>
-                          <div className="text-wrapper-23">Hire C/C++ Developers</div>
+                          <a href="/" className="text-wrapper-23">Hire .NET Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire Node.js Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire Python Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire Ruby Developers</a>
+                          <a href="/" className="text-wrapper-23">Hire C/C++ Developers</a>
                         </div>
                       </div>
                     </div>

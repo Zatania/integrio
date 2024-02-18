@@ -689,6 +689,20 @@
   height: 64px;
   position: relative;
   width: 264px;
+  transition: background-color 0.3s ease;
+}
+
+.prototype .b-2:hover {
+  background-color: #ff5621; /* Change background color to orange on hover */
+  border: none; /* Remove border on hover */
+}
+
+.prototype .b-2:hover .get-a-quote {
+  color: white; /* Change text color to white on hover */
+}
+
+.prototype .b-2:hover .ic-2 {
+  filter: invert(100%); /* Change arrow color to white on hover using CSS filter */
 }
 
 .prototype .element-21 {
@@ -718,6 +732,7 @@
   position: absolute;
   top: 0;
   width: 200px;
+  transition: color 0.3s ease;
 }
 
 .prototype .ic-2 {
@@ -728,6 +743,7 @@
   position: absolute;
   top: 8px;
   width: 24px;
+  transition: filter 0.3s ease;
 }
 
 .prototype .element-22 {
